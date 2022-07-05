@@ -1,6 +1,10 @@
 # Foodiffin-Android-App
-#Author :Yash Mehta
-#Academic Project in sem 3
+
+## Author: Yash Mehta 
+
+
+##Academic Project in sem 3
+### Description:
 As the name represents this Applications is a combination of food plus tiffin where user can buy different tiffin service based on their choice. 
 In terms of authentication, we verified the user during signup. after the verification successfully user can login and start the order. 
 Also, we tried to make it more user friendly and easily accessible by providing the search functionality. 
